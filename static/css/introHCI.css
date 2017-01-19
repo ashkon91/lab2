@@ -32,10 +32,6 @@ img .thumbnail {
 	color: #cccccc;
 }
 
-.project {
-	background-color: gray;
-	margin-left: 10px;
-}
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
@@ -48,12 +44,6 @@ img .thumbnail {
      z-index: -1;
 }
 
-.project {
-    margin-left: 20px;
-    background-color: #deebf7;
-    padding: 20px;
-    width: 525px;
-}
 
 #project1{
 	font-variant: small-caps;
